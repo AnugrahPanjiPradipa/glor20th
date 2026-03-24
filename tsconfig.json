@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/memories/MemoriesGalleryClient.jsx", "app/memories/getPhotosServer.js"  ],
   "exclude": ["node_modules"]
 }
